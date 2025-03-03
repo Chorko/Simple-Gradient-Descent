@@ -8,16 +8,16 @@ How It Works:
 
 
 How to Set Up and Run:
-  Clone the Repository:
+  - Clone the Repository:
   git clone https://github.com/Chorko/Simple-Gradient-Descent.git
   
-  Navigate to the Project Folder:
+  - Navigate to the Project Folder:
   cd Simple-Gradient-Descent
   
-  Install Dependencies:
+  - Install Dependencies:
   pip install -r requirements.txt
   
-  Run the Code:
+  - Run the Code:
   python gradientdescent.py 
 
 
