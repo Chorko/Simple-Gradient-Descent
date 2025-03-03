@@ -1,10 +1,12 @@
 # Simple-Gradient-Descent
 
-How It Works:
-  1. Start with a random guess (a number, called "m").
-  2. Check how far off the guess is (calculate error).
-  3. Adjust the guess slightly to improve it.
-  4. Repeat until we get the best value!
+How It Works: 
+1. **Generate Sample Data:** Create a set of points following a linear pattern with some noise.  
+2. **Initialize Gradient Descent:** Start with a random guess for \( m \) (slope of the line).  
+3. **Calculate Error:** Measure how far the predicted values are from actual values.  
+4. **Update \( m \):** Adjust \( m \) using the gradient to minimize error.  
+5. **Repeat:** Continue updating until \( m \) converges to the optimal value.  
+6. **Visualize:** Plot the optimization process, error reduction, and the best \( m \).
 
 
 How to Set Up and Run:
